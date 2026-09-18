@@ -244,18 +244,10 @@ The feature-engineering notebook prepares and exports the train/test data used b
 
 ---
 
-## Presentation
-
 The project presentation is provided separately as a PDF/PPT export.
 
-**Presentation PDF:**  
-`[Add presentation PDF link here](path/to/presentation.pdf)`
 
-**Presentation PowerPoint:**  
-`[Add presentation PPTX link here](path/to/presentation.pptx)`
-
-Replace the placeholder paths above with the final presentation file locations before publishing the repository.
-
+**[Presentation PDF](https://github.com/winifredpaul/ML_Finnish-train-delay-prediction/blob/main/presentation/Finnish_train_delay_project.pdf)**
 ---
 
 ## Repository Files
