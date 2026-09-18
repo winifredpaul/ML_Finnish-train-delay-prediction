@@ -1,3 +1,4 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 data/processed/Finnish_dataset_cleaned_feature_engineered.csv filter=lfs diff=lfs merge=lfs -text
 data/processed/resampled_transport_delay.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/*.csv filter=lfs diff=lfs merge=lfs -text
